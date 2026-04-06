@@ -1,0 +1,2 @@
+# Clear cube data before reload
+CubeClearData('SalesCube');
