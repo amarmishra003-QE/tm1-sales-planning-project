@@ -1,0 +1,3 @@
+# Sample TM1 rule
+['Profit'] = N:
+  ['Revenue'] - ['Cost'];
